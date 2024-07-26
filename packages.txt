@@ -1,0 +1,4 @@
+How to Install Required Packages:
+Install FastAPI, SQLAlchemy, psycopg2, Pydantic, pandas, numpy, scikit-learn, and other necessary packages.
+
+pip install fastapi uvicorn sqlalchemy psycopg2 pydantic pandas numpy scikit-learn plotly
